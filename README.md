@@ -1,4 +1,4 @@
-Gestion d'Application avec Symfony 5.0.11
+############Gestion d'Application avec Symfony 5.0.11
 Description
 Ceci est un projet de gestion d'application développé en utilisant Symfony 5.0.11. L'application offre des fonctionnalités pour gérer des clients, des fournisseurs, des commandes de clients, et permet également la création de nouveaux médicaments. Il s'appuie sur plusieurs composants Symfony tels que Doctrine pour la gestion de la base de données et Twig pour les vues.
 
